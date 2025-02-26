@@ -1,0 +1,6 @@
+data:1 interval:1 stuId:1 stuName:ÕÅÈı room:1 status:2
+data:2 interval:2 stuId:1 stuName:ÕÅÈı room:2 status:1
+data:3 interval:2 stuId:2 stuName:¾°ìâ room:1 status:1
+data:4 interval:2 stuId:2 stuName:¾°ìâ room:3 status:-1
+data:1 interval:2 stuId:3 stuName:º«Ã·Ã· room:3 status:0
+data:2 interval:1 stuId:3 stuName:º«Ã·Ã· room:2 status:1
