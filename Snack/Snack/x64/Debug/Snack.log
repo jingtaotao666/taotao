@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Project\Snack\Snack\main.cpp(74,25): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\Project\Snack\Snack\main.cpp(74,34): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  Snack.vcxproj -> D:\Project\Snack\x64\Debug\Snack.exe
